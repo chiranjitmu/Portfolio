@@ -1,0 +1,153 @@
+.contact{
+    position: absolute;
+    top: 154rem;
+}
+
+.contact-head{
+    position: absolute;
+    width: 13rem;
+    left: 37rem;
+    font-family: 'Jim Nightshade';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3rem;
+    color: #FFFFFF;
+ }
+
+ .line-9{
+    position: absolute;
+    width: 14rem;
+    left: 35rem;
+    top: 4.5rem;
+    border: 1px solid #FFFFFF;
+}
+
+.line-10{
+    position: absolute;
+    width: 3rem;
+    left: 40.2rem;
+    top: 4.3rem;
+    border: 5px solid #FF5005;
+    border-radius: 500px;
+}
+
+.contact-tag{
+    position: absolute;
+    width: 20rem;
+    left: 8rem;
+    top: 10rem;
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.contact-name{
+    position: absolute;
+    width: 15rem;
+    left: 35rem;
+    top: 10rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: transparent;
+    outline: none;
+    border: 0px solid;
+    color: #ffffff;
+}
+
+.line-11{
+    position: absolute;
+    width: 18rem;
+    left: 34.5rem;
+    top: 12.5rem;
+    border: 1px solid #FFFFFF;
+}
+
+
+.contact-number{
+    position: absolute;
+    width: 15rem;
+    left: 63rem;
+    top: 10rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: transparent;
+    outline: none;
+    border: 0px solid;
+    color: #ffffff;
+}
+
+.line-12{
+    position: absolute;
+    width: 18rem;
+    left: 62rem;
+    top: 12.5rem;
+    border: 1px solid #FFFFFF;
+}
+
+
+.contact-email{
+    position: absolute;
+    width: 15rem;
+    left: 35rem;
+    top: 17rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: transparent;
+    outline: none;
+    border: 0px solid;
+    color: #ffffff;
+}
+
+.line-13{
+    position: absolute;
+    width: 18rem;
+    left: 34.5rem;
+    top: 19.5rem;
+    border: 1px solid #FFFFFF;
+}
+
+
+.contact-message{
+    position: absolute;
+    width: 20rem;
+    height: 5rem;
+    left: 35rem;
+    top: 24rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #ffffff;
+}
+
+.line-14{
+    position: absolute;
+    width: 25rem;
+    left: 34.5rem;
+    top: 30rem;
+    border: 1px solid #FFFFFF;
+}
+
+.contact-submit{
+    position: absolute;
+    width: 4rem;
+    padding: 1rem;
+    padding-left: 2rem;
+    left: 38rem;
+    top: 35rem;
+    background: #061FFD;
+    color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 100px;
+}

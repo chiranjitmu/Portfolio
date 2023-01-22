@@ -1,0 +1,81 @@
+.portfolio-logo{
+    position: absolute;
+    left: 6.5rem;
+    top: 1rem;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(180deg,#f4b6ff,#fca7fd,#2be3fd)
+}
+
+.header-home{
+    position: absolute;
+    right: 35rem;
+    top: 2rem;
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header-home:hover{
+    color: #b344ff;
+}
+
+
+.header-about{
+    position: absolute;
+    right: 28rem;
+    top:  2rem;
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header-about:hover{
+    color: #b344ff;
+}
+
+.header-project{
+     position: absolute;
+     right: 19rem;
+     top: 2rem;
+     font-family: 'Junge';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 1.5rem;
+     color: #FFFFFF;
+     text-decoration: none;
+}
+.header-project:hover{
+    color: #b344ff;
+}
+
+.header-contact{
+    position: absolute;
+    right: 10rem;
+    top: 2rem;
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header-contact:hover{
+    color: #b344ff;
+}
+
+.line-1{
+    position: absolute;
+    width: 85rem;
+    top: 6rem;
+    border: 0.3px solid #FFFFFF;
+}

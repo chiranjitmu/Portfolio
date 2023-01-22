@@ -1,0 +1,106 @@
+.about{
+    position: absolute;
+    top: 50rem;
+}
+
+.about-me{
+    position: absolute;
+    width: 13rem;
+    left: 36rem;
+    font-family: 'Jim Nightshade';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3rem;
+    color: #FFFFFF;
+ }
+
+.about-choose{   
+    position: absolute;
+    width: 8rem;
+    left: 38rem;
+    top: 3.2rem;
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.line-3{
+    position: absolute;
+    width: 14rem;
+    left: 35rem;
+    top: 5rem;
+    border: 1px solid #FFFFFF;
+}
+
+.line-4{
+    position: absolute;
+    width: 3rem;
+    left: 40.2rem;
+    top: 4.8rem;
+    border: 5px solid #FF5005;
+    border-radius: 500px;
+}
+
+.background-shade{
+    position: absolute;
+    width: 20rem;
+    height: 22rem;
+    left: 6.5rem;
+    top: 13rem;
+    background: #1E1E1E;
+    border-radius: 36px;
+    transform: rotate(-15deg);   
+}
+  
+
+.background-img{
+    position: absolute;
+    width: 20rem;
+    height: 22rem;
+    left: 6.5rem;
+    top: 13rem;
+    border-radius: 36px;
+    transform: rotate(20deg);
+}
+
+.about-info{
+    position: absolute;
+    width: 30.5rem;
+    left: 35rem;
+    top: 15rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.about-knowledge{
+    position: absolute;
+    width: 14rem;
+    height: 10rem;
+    left: 68rem;
+    top: 15rem;
+    font-family: 'Kelly Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.list{
+    padding-top: 2rem;
+}
+
+
+.line-5{
+    position: absolute;
+    width: 6rem;
+    top: 50rem;
+    left: 39rem;
+    border-radius: 90px;
+    border: 0.1px solid #FFFFFF;
+ }

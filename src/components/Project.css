@@ -1,0 +1,146 @@
+.project{
+    position: absolute;
+    top: 102rem;
+}
+
+.projects{
+    position: absolute;
+    width: 13rem;
+    left: 37rem;
+    font-family: 'Jim Nightshade';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3rem;
+    color: #FFFFFF;
+ }
+
+ .line-6{
+    position: absolute;
+    width: 14rem;
+    left: 35rem;
+    top: 4.5rem;
+    border: 1px solid #FFFFFF;
+}
+
+.line-7{
+    position: absolute;
+    width: 3rem;
+    left: 40.2rem;
+    top: 4.3rem;
+    border: 5px solid #FF5005;
+    border-radius: 500px;
+}
+
+.projects-tag{  
+      position: absolute;
+      width: 10rem;
+      left: 38rem;
+      top: 8.8rem;
+      font-family: 'Katibeh';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      background: linear-gradient(180deg, #FFBA0A 0%, #0A4EFF 66.67%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+}
+
+.projects-tagbackground{
+  position: absolute;
+  width: 10rem;
+  height: 5rem;
+  left: 37rem;
+  top: 8.5rem;
+  background: #161518;
+  border: transparent;
+  border-radius: 100px;
+}
+
+.tinder-link{
+    position: absolute;
+      width: 15rem;
+      left: 6.7rem;
+      top: 23rem;
+      font-family: 'Katibeh';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      background: conic-gradient(from 180deg at 50% 50%, #DD0B89 -102.13deg, #FF390E 93.33deg, #DD0B89 257.87deg, #FF390E 453.33deg);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+}
+
+.hotstar-link{
+    position: absolute;
+      width: 15rem;
+      left: 34.5rem;
+      top: 30rem;
+      font-family: 'Katibeh';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      background: conic-gradient(from 180deg at 50% 50%, #053CFF -15.28deg, #EA10FD 277.12deg, #053CFF 344.72deg, #EA10FD 637.12deg);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+}
+
+.bootstrap-link{
+    position: absolute;
+      width: 20rem;
+      left: 64rem;
+      top: 23rem;
+      font-family: 'Katibeh';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      background: conic-gradient(from 180deg at 50% 50%, #31FD10 -7.49deg, #889EEB 58.12deg, #31FD10 352.51deg, #889EEB 418.12deg);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+}
+
+.line-15{
+     position: absolute;
+     height: 2rem;
+     left: 13.5rem;
+     top: 20rem;
+     border: 1px solid #FFF7F7;
+}
+
+
+.line-16{
+    position: absolute;
+    height: 16rem;
+    left: 42rem;
+    top: 14rem;
+    border: 1px solid #FFF7F7;
+}
+
+
+.line-17{
+    position: absolute;
+    width: 60rem;
+    left: 13.5rem;
+    top: 20rem;
+    border: 1px solid #FFF7F7;
+}
+
+.line-18{
+    position: absolute;
+    height: 2rem;
+    left: 73.5rem;
+    top: 20rem;
+    border: 1px solid #FFF7F7;
+}
+
+.line-8{
+    position: absolute;
+    width: 6rem;
+    top: 50rem;
+    left: 39rem;
+    border-radius: 90px;
+    border: 0.1px solid #FFFFFF;
+ }

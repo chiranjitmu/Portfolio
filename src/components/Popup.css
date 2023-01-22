@@ -1,0 +1,74 @@
+
+body.active-modal{
+    overflow-y: hidden;
+}
+
+
+.overlay {
+    background: black;
+}
+
+.bt-open{
+    position: fixed;
+    right: 1rem;
+  
+    bottom: 2rem;
+}
+
+
+.bt-close{
+    position: fixed;
+    left: 10rem;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    bottom: 20rem;
+}
+
+.modal,.overlay{
+    width: 20rem;
+    height: 100%;
+    right: 0;
+    bottom:  0;
+    position: fixed;
+}
+
+.modal-content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    padding: 14px;
+}
+:is(.pop-home, .pop-about, .pop-project, .pop-contact){
+    --border-color: purple;
+    --border-width: 1px; 
+        
+
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    background-image: linear-gradient(var(--border-color), var(--border-color));
+    background-size: 0% var(--border-width);
+    background-repeat: no-repeat;
+    transition: background-size 0.7s;
+}
+
+
+
+
+:is(.pop-home, .pop-about, .pop-project, .pop-contact) {
+  background-position: 50% calc(100% - 0px);
+}
+
+:is(.pop-home, .pop-about, .pop-project, .pop-contact):hover {
+    background-size: 100% var(--border-width);
+  } 
