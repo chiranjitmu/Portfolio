@@ -15,7 +15,7 @@
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
-    background-image: linear-gradient(180deg,#19001d,#67005c,#2be3fd)
+    background-image: linear-gradient(180deg,#723089,#e10d7b)
  }
  
  .quote{
@@ -23,8 +23,6 @@
     width: 20rem;
     left: 6.5rem;
     top: 17rem;
-    font-style: normal;
-    font-weight: 400;
     font-size: 1.3rem;
     color: #000f1f;
  }
@@ -35,6 +33,7 @@
     left: 50rem;
     top: 5rem;
     object-fit: cover;
+    border: 2px solid whitesmoke;
     position: absolute;
     border-radius: 8rem;
     transform: scale(0.9);
@@ -71,9 +70,9 @@
  
  .line-2{
     position: absolute;
-    width: 6rem;
+    width: 75rem;
     top: 40rem;
-    left: 39rem;
+    left: 5rem;
     border-radius: 90px;
     border: 0.1px solid black;
  }

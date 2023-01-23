@@ -19,10 +19,7 @@
     left: 38rem;
     top: 3.2rem;
     font-family: 'Italiana';
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
-    line-height: 19px;
 }
 
 .line-3{
@@ -94,9 +91,9 @@
 
 .line-5{
     position: absolute;
-    width: 6rem;
+    width: 75rem;
     top: 50rem;
-    left: 39rem;
+    left: 5rem;
     border-radius: 90px;
     border: 0.1px solid black;
  }

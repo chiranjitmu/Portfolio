@@ -121,3 +121,14 @@
     font-size: 20px;
     border-radius: 100px;
 }
+
+textarea::placeholder{
+    color: black;
+    font-size: 1rem;
+}
+
+input::placeholder{
+    color: black;
+    font-size: 1rem;
+}
+

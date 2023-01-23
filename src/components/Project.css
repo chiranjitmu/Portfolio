@@ -95,7 +95,7 @@
       font-style: normal;
       font-weight: 400;
       font-size: 48px;
-      background: conic-gradient(from 180deg at 50% 50%, #31FD10 -7.49deg, #889EEB 58.12deg, #31FD10 352.51deg, #889EEB 418.12deg);
+      background: conic-gradient(from 180deg at 50% 50%,  #DD0B89 -102.13deg, #FF390E 93.33deg, #DD0B89 257.87deg, #FF390E 453.33deg);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
@@ -137,9 +137,9 @@
 
 .line-8{
     position: absolute;
-    width: 6rem;
+    width: 75rem;
     top: 50rem;
-    left: 39rem;
+    left: 5rem;
     border-radius: 90px;
     border: 0.1px solid black;
  }
