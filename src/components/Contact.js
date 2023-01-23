@@ -21,7 +21,6 @@ function Contact() {
      
       <Fade left>
      <input placeholder='FULL NAME' className='contact-name' pattern="[a-zA-Z]+" required/>
-     <input placeholder='PHONE NUMBER' className='contact-number' pattern="[0-9]+" required/>
      <input placeholder='EMAIL' className='contact-email' pattern="^[a-zA-Z0-9._%+-]+@gmail\.com$" required/>
      <textarea placeholder='MESSAGE' className='contact-message' required/>
      </Fade>

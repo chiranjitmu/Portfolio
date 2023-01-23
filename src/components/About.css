@@ -11,8 +11,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 3rem;
-    color: #FFFFFF;
- }
+}
 
 .about-choose{   
     position: absolute;
@@ -24,7 +23,6 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color: #FFFFFF;
 }
 
 .line-3{
@@ -32,7 +30,7 @@
     width: 14rem;
     left: 35rem;
     top: 5rem;
-    border: 1px solid #FFFFFF;
+    border: 1px solid black;
 }
 
 .line-4{
@@ -75,7 +73,6 @@
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    color: #FFFFFF;
 }
 
 .about-knowledge{
@@ -88,7 +85,6 @@
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    color: #FFFFFF;
 }
 
 .list{
@@ -102,5 +98,5 @@
     top: 50rem;
     left: 39rem;
     border-radius: 90px;
-    border: 0.1px solid #FFFFFF;
+    border: 0.1px solid black;
  }

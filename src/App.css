@@ -2,8 +2,10 @@
     position: absolute;
     width: 1366px;
     height:3100px;
-    background:  #0E0B16;
+    background:  #c8f7f7;
+    color: black;
   }
+  
   
   ::-webkit-scrollbar{
     display: none;

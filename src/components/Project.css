@@ -11,7 +11,6 @@
     font-style: normal;
     font-weight: 400;
     font-size: 3rem;
-    color: #FFFFFF;
  }
 
  .line-6{
@@ -19,7 +18,7 @@
     width: 14rem;
     left: 35rem;
     top: 4.5rem;
-    border: 1px solid #FFFFFF;
+    border: 1px solid black;
 }
 
 .line-7{
@@ -107,7 +106,7 @@
      height: 2rem;
      left: 13.5rem;
      top: 20rem;
-     border: 1px solid #FFF7F7;
+     border: 1px solid black;
 }
 
 
@@ -116,7 +115,7 @@
     height: 16rem;
     left: 42rem;
     top: 14rem;
-    border: 1px solid #FFF7F7;
+    border: 1px solid black;
 }
 
 
@@ -125,7 +124,7 @@
     width: 60rem;
     left: 13.5rem;
     top: 20rem;
-    border: 1px solid #FFF7F7;
+    border: 1px solid black;
 }
 
 .line-18{
@@ -133,7 +132,7 @@
     height: 2rem;
     left: 73.5rem;
     top: 20rem;
-    border: 1px solid #FFF7F7;
+    border: 1px solid black;
 }
 
 .line-8{
@@ -142,5 +141,5 @@
     top: 50rem;
     left: 39rem;
     border-radius: 90px;
-    border: 0.1px solid #FFFFFF;
+    border: 0.1px solid black;
  }

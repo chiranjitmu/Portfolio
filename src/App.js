@@ -9,17 +9,16 @@ import Popup from './components/Popup';
 
 
 function App() {
-
   return (
 
-    <div className="App" id='home'>
+      <div className='App' id='home'>
         <Header />
         <Home />
         <About />
         <Project />
         <Contact />
         <Popup />
-    </div>
+      </div>
   );
 }
 

@@ -8,7 +8,7 @@
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
-    background-image: linear-gradient(180deg,#f4b6ff,#fca7fd,#2be3fd)
+    background-image: linear-gradient(180deg,#19001d,#67005c,#2be3fd)
 }
 
 .header-home{
@@ -19,8 +19,8 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.5rem;
-    color: #FFFFFF;
     text-decoration: none;
+    color: black;
 }
 
 .header-home:hover{
@@ -36,8 +36,8 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.5rem;
-    color: #FFFFFF;
     text-decoration: none;
+    color: black;
 }
 .header-about:hover{
     color: #b344ff;
@@ -51,8 +51,8 @@
      font-style: normal;
      font-weight: 400;
      font-size: 1.5rem;
-     color: #FFFFFF;
      text-decoration: none;
+     color: black;
 }
 .header-project:hover{
     color: #b344ff;
@@ -66,7 +66,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.5rem;
-    color: #FFFFFF;
+    color: black;
     text-decoration: none;
 }
 .header-contact:hover{
@@ -77,5 +77,5 @@
     position: absolute;
     width: 85rem;
     top: 6rem;
-    border: 0.3px solid #FFFFFF;
+    border: 0.3px solid black;
 }
